@@ -4,6 +4,10 @@ header {
     padding: 10px;
     text-align:right;
     font-family: Arial, Helvetica, sans-serif;
+    
+}
+header:hover {
+    background-color: powderblue;
 }
 
 /* .navigationBarStyleElement {
