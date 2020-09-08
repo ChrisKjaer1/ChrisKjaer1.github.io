@@ -6,7 +6,7 @@ header {
     font-family: Arial, Helvetica, sans-serif;
     
 }
-#forsideItem:hover {
+#forsideItem:hover:active {
     background-color: powderblue;
 }
 #ukendtItem:active {
