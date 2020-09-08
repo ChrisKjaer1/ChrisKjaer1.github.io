@@ -9,6 +9,9 @@ header {
 header:hover {
     background-color: powderblue;
 }
+header:active {
+    background-color: royalblue;
+}
 
 /* .navigationBarStyleElement {
     display:block;
