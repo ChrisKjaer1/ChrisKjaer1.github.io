@@ -1,11 +1,12 @@
 
 header {
     background-color:darkblue;
+    padding-top: 5px;
 }
 
 .navigationBarStyleElement {
     display:block;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    font-size: 10p;
-    margin-right: 5p;
+    font-size: 10px;
+    margin-right: 5px;
 }
